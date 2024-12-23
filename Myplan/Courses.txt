@@ -1,0 +1,51 @@
+Review and close the gaps !
+
+Python
+__________________________
+Basic Py:
+https://www.coursera.org/learn/python-basics
+Data-Strucure:
+https://www.coursera.org/learn/python-data
+Class py:
+https://www.coursera.org/learn/python-classes-inheritance
+
+___________________________
+
+SQL
+_________
+Basics:
+min 75 Problem solving in leetcode 
+
+Advanced SQL:
+- Window Functions
+- Common Table Expressions (CTE)
+- Indexes and Performance Tuning
+- Optimizing Queries
+  Index optimization
+  Query rewriting for performance improvement
+
+______________________________________________________
+Data Modeling
+in (Arabic)
+Architect :
+https://www.youtube.com/playlist?list=PLMGnA_WX4s90NGG_O-2m7Pn5Pq1_ieNdy
+Garage Education:
+https://www.youtube.com/playlist?list=PLxNoJq6k39G_Ffv8Na1oRbob0sVHfFc_T
+
+Finally complete this gap from 
+Meta Adv Data modeling:
+
+https://www.coursera.org/learn/advanced-data-modeling
+
+____________________________________________
+Power-BI:
+
+DAX,Power Query
+
+___________________
+Finally before 4/2025
+I should finish PL-300 Exam 
+(need practise During studying from 
+https://www.itexams.com/exam/PL-300
+
+)
