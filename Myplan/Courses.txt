@@ -23,7 +23,8 @@ Advanced SQL:
 - Optimizing Queries
   Index optimization
   Query rewriting for performance improvement
-
+Rev:
+grouping set/ rollup/ cube 
 ______________________________________________________
 Data Modeling
 in (Arabic)
