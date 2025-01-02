@@ -16,10 +16,11 @@ _________
 Basics:
 min 75 Problem solving in leetcode 
 
-Advanced SQL:
-- Window Functions
-- Common Table Expressions (CTE)
-- Indexes and Performance Tuning
++ SQL Topics:
+
+- Window Functions  (done)
+- Common Table Expressions (CTE) (done)
+- Indexes and Performance Tuning (done)
 - Optimizing Queries
   Index optimization
   Query rewriting for performance improvement
