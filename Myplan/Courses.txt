@@ -3,7 +3,7 @@ Review and close the gaps !
 Python
 __________________________
 Basic Py:
-https://www.coursera.org/learn/python-basics
+https://www.coursera.org/learn/python-basics (done)
 Data-Strucure:
 https://www.coursera.org/learn/python-data
 Class py:
@@ -14,7 +14,7 @@ ___________________________
 SQL
 _________
 Basics:
-min 75 Problem solving in leetcode 
+min 75 Problem solving in leetcode  (done)
 
 + SQL Topics:
 
